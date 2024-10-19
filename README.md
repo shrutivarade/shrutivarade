@@ -33,7 +33,7 @@ I'm a Software Engineer passionate about using technology to solve real-world pr
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shrutivarade&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <!-- ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shrutivarade&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
