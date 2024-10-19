@@ -16,8 +16,12 @@ Here are some ideas to get you started:
 -->
 
 ### 💫 About Me:
-✨I'm Shruti Varade<br>👩🏻‍💻My major is in Computer Science<br>🩻 I'm currently working at Mass General Hospital - Harvard Medical School<br>☁️ I've a keen interest in software development. So, I'm improving my problem solving skills<br>💬 Ask me about Java, Python, JavaScript, SQL<br>📫 Feel free to reach me at: https://www.linkedin.com/in/shruti-varade/<br>
+<!-- ✨I'm Shruti Varade<br>👩🏻‍💻My major is in Computer Science<br>🩻 I'm currently working at Mass General Hospital - Harvard Medical School<br>☁️ I've a keen interest in software development. So, I'm improving my problem solving skills<br>💬 Ask me about Java, Python, JavaScript, SQL<br>📫 Feel free to reach me at: https://www.linkedin.com/in/shruti-varade/<br>
+-->
 
+I'm a Software Engineer passionate about using technology to solve real-world problems, especially in healthcare. At MGH-Harvard Medical School, I helped build a tool to visualize brain fibers, combining my love for coding with meaningful research. I enjoy working with both frontend and backend technologies, and I'm always excited to learn and contribute to projects that make an impact.
+
+This version feels more approachable and personal, while still highlighting your expertise.
 
 #### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shruti-varade) 
