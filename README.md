@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-✨I'm Shruti Varade<br>👩🏻‍💻My major is in Computer Science<br>🩻 I'm currently working on a medical image processing project using javascript<br>☁️ I've a keen interest in cloud computing. So, I'm learning AWS<br>💬 Ask me about Java, Python, JavaScript, SQL<br>📫 Feel free to reach me at: https://www.linkedin.com/in/shruti-varade/<br>
+✨I'm Shruti Varade<br>👩🏻‍💻My major is in Computer Science<br>🩻 I'm currently working at Mass General Hospital - Harvard Medical School<br>☁️ I've a keen interest in software development. So, I'm learning improving my problem solving skills<br>💬 Ask me about Java, Python, JavaScript, SQL<br>📫 Feel free to reach me at: https://www.linkedin.com/in/shruti-varade/<br>
 
 
 ## 🌐 Socials:
