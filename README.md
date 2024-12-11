@@ -25,11 +25,11 @@ Feel free to connect me at [![LinkedIn](https://img.shields.io/badge/LinkedIn-%2
 
 <!-- #### 🌐 Socials: -->
 
-<!--### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shrutivarade&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/> 
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shrutivarade&theme=default&hide_border=false&include_all_commits=true&count_private=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shrutivarade&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shrutivarade&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shrutivarade&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
 
  <!-- ## 💻 Tech Stack
 
@@ -105,6 +105,6 @@ Feel free to connect me at [![LinkedIn](https://img.shields.io/badge/LinkedIn-%2
 <!-- ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shrutivarade&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 
-[![](https://visitcount.itsvg.in/api?id=shrutivarade&icon=0&color=0)](https://visitcount.itsvg.in) 
+<!-- [![](https://visitcount.itsvg.in/api?id=shrutivarade&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
