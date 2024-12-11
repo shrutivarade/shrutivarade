@@ -22,6 +22,13 @@ Here are some ideas to get you started:
 I'm a Software Engineer passionate about using technology to solve real-world problems, especially in healthcare. At MGH-Harvard Medical School, I helped build a tool to visualize brain fibers, combining my love for coding with meaningful research. I enjoy working with both frontend and backend technologies, and I'm always excited to learn and contribute to projects that make an impact. Feel free to connect me at [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shruti-varade) 
 
 <!-- #### 🌐 Socials: -->
+
+### 📊 GitHub Stats:
+<!-- ![](https://github-readme-stats.vercel.app/api?username=shrutivarade&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=shrutivarade&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shrutivarade&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ### 💻 Tech Stack:
 
 #### Languages:
@@ -68,14 +75,9 @@ I'm a Software Engineer passionate about using technology to solve real-world pr
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6)
 
 
-### 📊 GitHub Stats:
-<!-- ![](https://github-readme-stats.vercel.app/api?username=shrutivarade&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=shrutivarade&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shrutivarade&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<!-- ### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
 
 <!-- ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shrutivarade&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
