@@ -31,7 +31,7 @@ Feel free to connect me at [![LinkedIn](https://img.shields.io/badge/LinkedIn-%2
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shrutivarade&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shrutivarade&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
-<!-- ## 💻 Tech Stack
+ ## 💻 Tech Stack
 
 <div align="center">
   
@@ -78,10 +78,10 @@ Feel free to connect me at [![LinkedIn](https://img.shields.io/badge/LinkedIn-%2
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6)
 
-</div> -->
+</div> 
 
 
-## 💻 Tech Stack
+<!--## 💻 Tech Stack
 
 ### Languages
 [![Languages](https://skillicons.dev/icons?i=c,cpp,html,java,javascript,python&perline=6)](https://skillicons.dev)
@@ -93,7 +93,7 @@ Feel free to connect me at [![LinkedIn](https://img.shields.io/badge/LinkedIn-%2
 [![Databases & Tools](https://skillicons.dev/icons?i=mongodb,mysql,postgres,aws,github,docker,postman,jira&perline=6)](https://skillicons.dev)
 
 ### Data Science & Design
-[![Data Science & Design](https://skillicons.dev/icons?i=numpy,matplotlib,pandas,plotly,sklearn,canva,figma,xd&perline=6)](https://skillicons.dev)
+[![Data Science & Design](https://skillicons.dev/icons?i=numpy,matplotlib,pandas,plotly,sklearn,canva,figma,xd&perline=6)](https://skillicons.dev)-->
 
 
 
