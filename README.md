@@ -81,20 +81,41 @@ Feel free to connect me at [![LinkedIn](https://img.shields.io/badge/LinkedIn-%2
 </div> -->
 
 
-## 💻 Tech Stack
+Let me correct that for you and properly follow the format you intended. Here's the clean and properly divided content:
+
+---
 
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=c,cpp,html,java,javascript,python&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,java,js,python&perline=6)](https://skillicons.dev)
+
+---
 
 ### Frameworks & Libraries
-[![Frameworks](https://skillicons.dev/icons?i=react,nodejs,bootstrap,django,flask,express,threejs,webgl&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,bootstrap,django,flask,express,threejs,webgl&perline=6)](https://skillicons.dev)
 
-### Databases & Tools
-[![Databases & Tools](https://skillicons.dev/icons?i=mongodb,mysql,postgres,aws,github,docker,postman,jira&perline=4)](https://skillicons.dev)
+---
 
-### Data Science & Design
-[![Data Science & Design](https://skillicons.dev/icons?i=numpy,matplotlib,pandas,plotly,sklearn,canva,figma,xd&perline=4)](https://skillicons.dev)
+### Databases
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres&perline=3)](https://skillicons.dev)
 
+---
+
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,postman,jira,github&perline=5)](https://skillicons.dev)
+
+---
+
+### Data Science
+[![My Skills](https://skillicons.dev/icons?i=numpy,pandas,matplotlib,plotly,scikit-learn&perline=5)](https://skillicons.dev)
+
+---
+
+### Design & Collaboration
+[![My Skills](https://skillicons.dev/icons?i=canva,figma,adobexd&perline=3)](https://skillicons.dev)
+
+---
+
+Let me know if this meets your expectations! 😊
 
 <!-- ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
