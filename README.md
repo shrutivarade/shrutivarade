@@ -30,10 +30,14 @@ Thank you for taking the time to view my GitHub Profile. Feel free to connect me
 
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=shrutivarade&theme=default&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shrutivarade&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
-![GitHub Stats](https://github-stats-card-generator.vercel.app/api/svg?username=shrutivarade)
-![Top Languages](https://github-stats-card-generator.vercel.app/api/svg?username=shrutivarade&type=languages)
-![Contributions](https://github-stats-card-generator.vercel.app/api/svg?username=shrutivaradeE&type=contributions)
-![Top Repos](https://github-stats-card-generator.vercel.app/api/svg?username=shrutivarade&type=top-repos)
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shrutivarade&theme=github
+
+http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shrutivarade&theme=github&exclude=jupyter%20Notebook
+
+http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shrutivarade&theme=github&utcOffset=-05:00
+
+
+
 
  <!-- ## 💻 Tech Stack
 
