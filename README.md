@@ -80,7 +80,7 @@ Feel free to connect me at [![LinkedIn](https://img.shields.io/badge/LinkedIn-%2
 
 </div> -->
 
-
+<!--
 ## 💻 Tech Stack
 
 
@@ -91,7 +91,7 @@ Feel free to connect me at [![LinkedIn](https://img.shields.io/badge/LinkedIn-%2
 [![Frameworks](https://skillicons.dev/icons?i=react,nodejs,bootstrap,django,express,threejs&perline=7)](https://skillicons.dev)
 
 ### Databases & Tools
-[![Databases & Tools](https://skillicons.dev/icons?i=mongodb,mysql,postgresql,aws,github,docker,postman,jira&perline=7)](https://skillicons.dev)
+[![Databases & Tools](https://skillicons.dev/icons?i=mongodb,mysql,postgresql,aws,github,docker,postman,jira&perline=7)](https://skillicons.dev)-->
 
 <!-- ### Data Science & Design
 [![Data Science & Design](https://skillicons.dev/icons?i=numpy,matplotlib,pandas,plotly,sklearn,canva,figma,xd&perline=6)](https://skillicons.dev)-->
