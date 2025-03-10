@@ -19,10 +19,9 @@ Here are some ideas to get you started:
 <!-- ✨I'm Shruti Varade<br>👩🏻‍💻My major is in Computer Science<br>🩻 I'm currently working at Mass General Hospital - Harvard Medical School<br>☁️ I've a keen interest in software development. So, I'm improving my problem solving skills<br>💬 Ask me about Java, Python, JavaScript, SQL<br>📫 Feel free to reach me at: https://www.linkedin.com/in/shruti-varade/<br>
 -->
 
-I'm a Software Engineer passionate about Web Technologies, open source, and Problem Solving. Thank you for taking the time to view my GitHub Profile. I enjoy working with both front-end and back-end technologies, and I'm always excited to learn and contribute to projects that make an impact. I am getting my hands dirty learning AWS, CI/CD, and data workflows.
+I'm a Software Engineer passionate about Web Technologies, open source, and Problem Solving. I enjoy working with both front-end and back-end technologies, and I'm always excited to learn and contribute to projects that make an impact. I am getting my hands dirty learning AWS, CI/CD, and data workflows. During my time at Massachusetts General Hospital - Harvard Medical School, I helped build a tool to visualize brain fibers, combining my love for coding with meaningful neuroimaging research. Outside work, I love to play Soccer ⚽️ and go for a hike ⛰️. 
 
-During my time at Massachusetts General Hospital - Harvard Medical School, I helped build a tool to visualize brain fibers, combining my love for coding with meaningful neuroimaging research. Outside work, i love to play Soccer ⚽️ and go for a hike ⛰️
-Feel free to connect me at [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shruti-varade) 
+Thank you for taking the time to view my GitHub Profile. Feel free to connect me at [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shruti-varade) 
 
 <!-- #### 🌐 Socials: -->
 
