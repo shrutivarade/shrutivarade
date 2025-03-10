@@ -34,10 +34,6 @@ Thank you for taking the time to view my GitHub Profile. Feel free to connect me
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shrutivarade&theme=github&exclude=jupyter%20Notebook)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shrutivarade&theme=github&utcOffset=-05:00)
-
-
-
 
  <!-- ## 💻 Tech Stack
 
